@@ -1,0 +1,79 @@
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\bin\Debug\pp.exe.config
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\pp.exe
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\pp.pdb
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\bin\Debug\p.mdb
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\bin\Debug\pp.exe
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\bin\Debug\pp.pdb
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\pp.Form1.resources
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\pp.Form2.resources
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\pp.Form3.resources
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\pp.Form4.resources
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\pp.Form5.resources
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\pp.Form6.resources
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\ResGen.read.1.tlog
+C:\Users\HD\Desktop\c# & web\c#\care project\pp\obj\Debug\ResGen.write.1.tlog
+C:\Users\AnInNiN\Desktop\care project\pp\bin\Debug\pp.exe.config
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\pp.exe
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\pp.pdb
+C:\Users\AnInNiN\Desktop\care project\pp\bin\Debug\p.mdb
+C:\Users\AnInNiN\Desktop\care project\pp\bin\Debug\pp.exe
+C:\Users\AnInNiN\Desktop\care project\pp\bin\Debug\pp.pdb
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\pp.Form1.resources
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\pp.Form2.resources
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\pp.Form3.resources
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\pp.Form4.resources
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\pp.Form5.resources
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\pp.Form6.resources
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\pp.Properties.Resources.resources
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\ResGen.read.1.tlog
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\AnInNiN\Desktop\care project\pp\obj\Debug\ResGen.write.1.tlog
+D:\care project\pp\bin\Debug\pp.exe.config
+D:\care project\pp\obj\Debug\pp.exe
+D:\care project\pp\obj\Debug\pp.pdb
+D:\care project\pp\bin\Debug\p.mdb
+D:\care project\pp\bin\Debug\pp.exe
+D:\care project\pp\bin\Debug\pp.pdb
+D:\care project\pp\obj\Debug\ResolveAssemblyReference.cache
+D:\care project\pp\obj\Debug\pp.Form1.resources
+D:\care project\pp\obj\Debug\pp.Form2.resources
+D:\care project\pp\obj\Debug\pp.Form3.resources
+D:\care project\pp\obj\Debug\pp.Form4.resources
+D:\care project\pp\obj\Debug\pp.Form5.resources
+D:\care project\pp\obj\Debug\pp.Form6.resources
+D:\care project\pp\obj\Debug\pp.Properties.Resources.resources
+D:\care project\pp\obj\Debug\pp.csproj.GenerateResource.Cache
+D:\care project\pp\obj\Debug\pp.Form7.resources
+D:\car Project\bin\Debug\pp.exe.config
+D:\car Project\obj\Debug\pp.exe
+D:\car Project\obj\Debug\pp.pdb
+D:\car Project\bin\Debug\p.mdb
+D:\car Project\bin\Debug\pp.exe
+D:\car Project\bin\Debug\pp.pdb
+D:\car Project\obj\Debug\ResolveAssemblyReference.cache
+D:\car Project\obj\Debug\pp.Form1.resources
+D:\car Project\obj\Debug\pp.Form2.resources
+D:\car Project\obj\Debug\pp.Form3.resources
+D:\car Project\obj\Debug\pp.Form4.resources
+D:\car Project\obj\Debug\pp.Form5.resources
+D:\car Project\obj\Debug\pp.Form6.resources
+D:\car Project\obj\Debug\pp.Form7.resources
+D:\car Project\obj\Debug\pp.Properties.Resources.resources
+D:\car Project\obj\Debug\pp.csproj.GenerateResource.Cache
+D:\university\car Project\bin\Debug\pp.exe.config
+D:\university\car Project\obj\Debug\pp.exe
+D:\university\car Project\obj\Debug\pp.pdb
+D:\university\car Project\obj\Debug\ResolveAssemblyReference.cache
+D:\university\car Project\obj\Debug\pp.Form1.resources
+D:\university\car Project\obj\Debug\pp.Form2.resources
+D:\university\car Project\obj\Debug\pp.Form3.resources
+D:\university\car Project\obj\Debug\pp.Form4.resources
+D:\university\car Project\obj\Debug\pp.Form5.resources
+D:\university\car Project\obj\Debug\pp.Form6.resources
+D:\university\car Project\obj\Debug\pp.Form7.resources
+D:\university\car Project\obj\Debug\pp.Properties.Resources.resources
+D:\university\car Project\obj\Debug\pp.csproj.GenerateResource.Cache

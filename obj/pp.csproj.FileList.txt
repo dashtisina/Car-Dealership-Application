@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\pp.Form1.resources
+obj\Debug\pp.Properties.Resources.resources
+obj\Debug\pp.csproj.GenerateResource.Cache
+bin\Debug\pp.exe
+bin\Debug\pp.pdb
+obj\Debug\pp.exe
+obj\Debug\pp.pdb
+obj\Debug\pp.Form2.resources
+bin\Debug\p.mdb
+bin\Debug\pp.exe.config
+obj\Debug\pp.Form3.resources
+obj\Debug\pp.Form4.resources
+obj\Debug\pp.Form5.resources
+obj\Debug\pp.Form6.resources

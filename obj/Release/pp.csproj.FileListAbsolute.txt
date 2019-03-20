@@ -1,0 +1,16 @@
+D:\university\car Project\bin\Release\pp.exe.config
+D:\university\car Project\bin\Release\p.mdb
+D:\university\car Project\bin\Release\pp.exe
+D:\university\car Project\bin\Release\pp.pdb
+D:\university\car Project\obj\Release\ResolveAssemblyReference.cache
+D:\university\car Project\obj\Release\pp.Form1.resources
+D:\university\car Project\obj\Release\pp.Form2.resources
+D:\university\car Project\obj\Release\pp.Form3.resources
+D:\university\car Project\obj\Release\pp.Form4.resources
+D:\university\car Project\obj\Release\pp.Form5.resources
+D:\university\car Project\obj\Release\pp.Form6.resources
+D:\university\car Project\obj\Release\pp.Form7.resources
+D:\university\car Project\obj\Release\pp.Properties.Resources.resources
+D:\university\car Project\obj\Release\pp.csproj.GenerateResource.Cache
+D:\university\car Project\obj\Release\pp.exe
+D:\university\car Project\obj\Release\pp.pdb
